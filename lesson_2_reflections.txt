@@ -8,3 +8,7 @@ Because it has the files we want to commit in the repository
 How can you use the staging area to make sure you have one commit per logical change?
 
 Introducing the files that involves a logical change in the staging area and using the git diff and git diff --staged to keep track of the commits
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When making experimental changes 
