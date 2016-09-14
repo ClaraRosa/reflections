@@ -4,3 +4,7 @@ It creates the .git directory , because is necesary to have the git repository
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Because it has the files we want to commit in the repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Introducing the files that involves a logical change in the staging area and using the git diff and git diff --staged to keep track of the commits
